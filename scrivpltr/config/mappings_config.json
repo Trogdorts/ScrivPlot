@@ -1,0 +1,14 @@
+[
+    {
+        "plottr": "PlottrScene",
+        "scrivener": "ScrivenerScene",
+        "description": "Maps a Plottr scene to a Scrivener scene.",
+        "use": true
+    },
+    {
+        "plottr": "PlottrChapter",
+        "scrivener": "ScrivenerChapter",
+        "description": "Maps a Plottr chapter to a Scrivener chapter.",
+        "use": true
+    }
+]
